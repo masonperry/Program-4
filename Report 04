@@ -1,0 +1,27 @@
+Mason Perry
+Professor Prudence
+CSC 201 Introduction to Programming
+18 March 2016
+Program04 Report
+
+In class we learned about functions, and what they are used for. Functions are to
+better organize and compress a form of code. For this assignment I was to revisit
+lab 2 and compress and organize it.
+
+Important Variables:
+add, subtract, multiply, and divide each contain their respective operation.
+add_pos, sub_pos, mult_pos, and div_pos, are assigned to find the operation
+position.
+a_store, commits addition to memory.
+s_store, commits subtraction to memory.
+m_store, commits multiplication to memory.
+d_store, commits division to memory.
+value, is suppose to store user input based on the last operation they entered.
+inValid is assigned to tell if the user input is invalid.
+
+The code is to operate a simple calculator, with a memory bank. If the memory
+bank works I am not so sure. The function code neatly organized each operation into a neat block
+and the use of finding the operation makes sure a numeric value is being entered.
+
+The only major problems I encountered was again not fully understanding Functions.
+That, and Memory, I absolutely certain my code to store expressions is not working.
